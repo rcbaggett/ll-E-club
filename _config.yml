@@ -3,6 +3,6 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 
-title: [THIS IS THE SITE TITLE]
-description: [THIS IS A SITE DESCRIPTION]
+title: [LANDAU + LIFSHITZ ELASTICITY]
+description: [We're physicist and we're gonna act like physicists and we're gonna play around like physicists]
 
